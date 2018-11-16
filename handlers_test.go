@@ -94,7 +94,7 @@ func newRequestRecorder(req *http.Request, method string, strPath string, fnHand
 
 //做性能测试和AB测试
 func BenchmarkSprintf(b *testing.B){
-	b.ResetTimer()
+	 b.ResetTimer()
 	b.Log("When the books' isdn does not exist")
 	// A request with a non-existant isdn
 	req1, err := http.NewRequest("GET", "/books/1234", nil)
