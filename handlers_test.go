@@ -9,6 +9,7 @@ import (
 	"time"
 )
 
+//在创建一个书籍前，分别测试查看书籍的功能
 func TestBookShow(t *testing.T) {
 	t.Log("When the books' isdn does not exist")
 	// A request with a non-existant isdn
@@ -52,6 +53,7 @@ func TestBookShow(t *testing.T) {
 	}
 }
 
+//给定书籍，测试搜索功能
 func TestBookIndex(t *testing.T) {
 	// Create an entry of the book to the bookstore map
 	testBook := &Book{
@@ -90,6 +92,7 @@ func newRequestRecorder(req *http.Request, method string, strPath string, fnHand
 }
 
 
+//做性能测试和AB测试
 func BenchmarkSprintf(b *testing.B){
 	b.ResetTimer()
 	b.Log("When the books' isdn does not exist")

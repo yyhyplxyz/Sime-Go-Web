@@ -8,10 +8,8 @@ import (
 
 
 /*
-Define all the routes here.
-A new Route entry passed to the routes slice will be automatically
-translated to a handler with the NewRouter() function
-*/
+定义root，即是restfulapi的格式
+资源地址和动作*/
 type Route struct {
 	Name        string
 	Method      string
@@ -31,6 +29,7 @@ func AllRoutes() Routes {
 	return routes
 }
 
+//创建router，给所有route匹配函数
 func NewRouter(routes Routes) *httprouter.Router {
 
 	router := httprouter.New()

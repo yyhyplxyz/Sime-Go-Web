@@ -1,5 +1,6 @@
 package main
 
+//创建了一个book实体，包括书名，json，作者，页数
 type Book struct {
 	// The main identifier for the Book. This will be unique.
 	ISDN   string `json:"isdn"`
@@ -9,5 +10,6 @@ type Book struct {
 }
 
 // A map to store the books with the ISDN as the key
-// This acts as the storage in lieu of an actual database
+//存储书籍的事例
+
 var bookstore = make(map[string]*Book)
