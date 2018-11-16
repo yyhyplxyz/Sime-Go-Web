@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8a9d469-8672-4df0-9a68-fe062b3770db" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part1/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part2/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part3/handlers.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part3/handlers_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/handlers_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part3/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part3/models.go" beforeDir="false" afterPath="$PROJECT_DIR$/models.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part3/responses.go" beforeDir="false" afterPath="$PROJECT_DIR$/responses.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part4/handlers.go" beforeDir="false" afterPath="$PROJECT_DIR$/handlers.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part4/handlers_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part4/logger.go" beforeDir="false" afterPath="$PROJECT_DIR$/logger.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part4/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part4/models.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part4/responses.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part4/router.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part4/routes.go" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="handlers_test.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/handlers_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1665">
+              <caret line="111" column="28" selection-start-line="111" selection-start-column="28" selection-end-line="111" selection-end-column="28" />
+              <folding>
+                <element signature="e#14#108#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+              <folding>
+                <element signature="e#14#82#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>httprouter_tutorial</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>main</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>/usr/local/go/src/net/http</dir>
+    </dirStrings>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/routes.go" />
+        <option value="$PROJECT_DIR$/main.go" />
+        <option value="$PROJECT_DIR$/handlers_test.go" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="httprouter-tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="httprouter-tutorial" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Test.BenchmarkSprintf in httprouter-tutorial">
+    <configuration name="go build httprouter-tutorial" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="httprouter-tutorial" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <package value="httprouter-tutorial" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build httprouter-tutorial" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="httprouter-tutorial" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="httprouter-tutorial" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build httprouter-tutorial" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="httprouter-tutorial" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/part4/main.go" />
+      <package value="httprouter-tutorial" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build httprouter-tutorial" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="httprouter-tutorial" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/part4/main.go" />
+      <package value="httprouter-tutorial" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="httprouter-tutorial" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="BenchmarkSprintf in httprouter-tutorial" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="httprouter-tutorial" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="httprouter-tutorial" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^BenchmarkSprintf$" />
+    </configuration>
+    <configuration name="TestBookIndex in httprouter-tutorial" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="httprouter-tutorial" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="httprouter-tutorial" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestBookIndex$" />
+    </configuration>
+    <configuration name="TestBookShow in httprouter-tutorial" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="httprouter-tutorial" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="httprouter-tutorial" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestBookShow$" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build httprouter-tutorial" />
+      <item itemvalue="Go Build.go build main.go" />
+      <item itemvalue="Go Test.TestBookShow in httprouter-tutorial" />
+      <item itemvalue="Go Test.TestBookIndex in httprouter-tutorial" />
+      <item itemvalue="Go Test.BenchmarkSprintf in httprouter-tutorial" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.BenchmarkSprintf in httprouter-tutorial" />
+        <item itemvalue="Go Test.TestBookShow in httprouter-tutorial" />
+        <item itemvalue="Go Test.TestBookIndex in httprouter-tutorial" />
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build httprouter-tutorial" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestBookShow_in_httprouter-tutorial - 2018.11.16 at 10h 46m 37s.xml">
+      <configuration name="TestBookShow in httprouter-tutorial" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestBookIndex_in_httprouter-tutorial - 2018.11.16 at 10h 48m 20s.xml">
+      <configuration name="TestBookIndex in httprouter-tutorial" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="BenchmarkSprintf_in_httprouter-tutorial - 2018.11.16 at 10h 53m 52s.xml">
+      <configuration name="BenchmarkSprintf in httprouter-tutorial" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestBookShow_in_httprouter-tutorial - 2018.11.16 at 10h 55m 29s.xml">
+      <configuration name="TestBookShow in httprouter-tutorial" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="BenchmarkSprintf_in_httprouter-tutorial - 2018.11.16 at 10h 58m 11s.xml">
+      <configuration name="BenchmarkSprintf in httprouter-tutorial" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="BenchmarkSprintf_in_httprouter-tutorial - 2018.11.16 at 10h 59m 07s.xml">
+      <configuration name="BenchmarkSprintf in httprouter-tutorial" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44121212" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32969698" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/handlers_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#14#108#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="5" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="e#14#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/handlers_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1665">
+          <caret line="111" column="28" selection-start-line="111" selection-start-column="28" selection-end-line="111" selection-end-column="28" />
+          <folding>
+            <element signature="e#14#108#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
