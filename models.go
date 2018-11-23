@@ -9,7 +9,7 @@ type Book struct {
 	Pages  int    `json:"pages"`
 }
 
-// A map to store the books with the ISDN as the key
+
 //存储书籍的事例
 
 var bookstore = make(map[string]*Book)
